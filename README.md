@@ -9,4 +9,3 @@ How to deploy dumbflix-backend :
 - Deploy dumbflix-backend with port 5000
 
 CICD TEST FROM DEV
-CICD TEST FROM DEV

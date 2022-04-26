@@ -24,7 +24,7 @@ pipeline{
                 sshagent([secret]) {
                     sh """ssh -o StrictHostKeyChecking=no ${server} << EOF
                     cd ${directory}
-                    docker build -t rioprayogo/dumbflix-be-pg:v1 .
+                    docker build -t rioprayogo/dumbflix-be-pg:v2 .
                     exit
                     EOF"""
                 }

@@ -19,7 +19,7 @@
     "username": "rio",
     "password": "123Qweasd",
     "database": "dumbflix",
-    "host": "103.176.79.125",
+    "host": "10.119.158.167",
     "dialect": "postgres",
     "operatorsAliases": false
   }
