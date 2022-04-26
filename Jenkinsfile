@@ -1,6 +1,6 @@
 def secret = 'app'
 def server = 'rio@103.176.79.125'
-def directory = 'dumbflix-frontend'
+def directory = 'dumbflix-backend'
 def branch = 'main'
 
 pipeline{
