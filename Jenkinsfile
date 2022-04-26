@@ -1,5 +1,5 @@
 def secret = 'app'
-def server = 'rio@103.176.79.125'
+def server = 'rio@10.119.158.167'
 def directory = 'dumbflix-backend'
 def branch = 'main'
 
