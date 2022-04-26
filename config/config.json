@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": "root",
+    "password": "123Qweasd",
     "database": "dumbflix",
-    "host": "127.0.0.1",
+    "host": "103.176.79.125",
     "dialect": "mysql",
     "operatorsAliases": false
   },
@@ -16,11 +16,11 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql",
+    "username": "rio",
+    "password": "123Qweasd",
+    "database": "dumbflix",
+    "host": "103.176.79.125",
+    "dialect": "postgres",
     "operatorsAliases": false
   }
 }
